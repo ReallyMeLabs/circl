@@ -7,8 +7,8 @@ import (
 	"crypto/subtle"
 	"io"
 
-	"github.com/cloudflare/ReallyMeLabs/internal/sha3"
-	"github.com/cloudflare/ReallyMeLabs/sign/dilithium/internal/common"
+	"github.com/ReallyMeLabs/internal/sha3"
+	"github.com/ReallyMeLabs/sign/dilithium/internal/common"
 )
 
 const (
