@@ -283,7 +283,7 @@ func BenchmarkEd448Ph(b *testing.B) {
 }
 
 func Example_ed448() {
-	// import "github.com/cloudflare/circl/sign/ed448"
+	// import "github.com/ReallyMeLabs/circl/sign/ed448"
 	// import "crypto/rand"
 
 	// Generating Alice's key pair
@@ -304,7 +304,7 @@ func Example_ed448() {
 }
 
 func ExampleSignPh() {
-	// import "github.com/cloudflare/circl/sign/ed448"
+	// import "github.com/ReallyMeLabs/circl/sign/ed448"
 	// import "crypto/rand"
 
 	// Generating Alice's key pair

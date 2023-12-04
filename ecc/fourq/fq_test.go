@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/cloudflare/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/internal/test"
 )
 
 type (

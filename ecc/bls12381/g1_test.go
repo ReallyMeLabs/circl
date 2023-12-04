@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/cloudflare/circl/ecc/bls12381/ff"
-	"github.com/cloudflare/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/ecc/bls12381/ff"
+	"github.com/ReallyMeLabs/circl/internal/test"
 )
 
 func randomScalar(t testing.TB) *Scalar {

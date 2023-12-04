@@ -33,11 +33,11 @@ package hybrid
 import (
 	"errors"
 
-	"github.com/cloudflare/circl/internal/sha3"
-	"github.com/cloudflare/circl/kem"
-	"github.com/cloudflare/circl/kem/kyber/kyber1024"
-	"github.com/cloudflare/circl/kem/kyber/kyber512"
-	"github.com/cloudflare/circl/kem/kyber/kyber768"
+	"github.com/ReallyMeLabs/circl/internal/sha3"
+	"github.com/ReallyMeLabs/circl/kem"
+	"github.com/ReallyMeLabs/circl/kem/kyber/kyber1024"
+	"github.com/ReallyMeLabs/circl/kem/kyber/kyber512"
+	"github.com/ReallyMeLabs/circl/kem/kyber/kyber768"
 )
 
 var ErrUninitialized = errors.New("public or private key not initialized")

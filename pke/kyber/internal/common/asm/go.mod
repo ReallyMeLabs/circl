@@ -1,4 +1,4 @@
-module github.com/cloudflare/circl/pke/kyber/internal/common/asm
+module github.com/ReallyMeLabs/circl/pke/kyber/internal/common/asm
 
 go 1.19
 
