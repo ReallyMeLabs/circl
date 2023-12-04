@@ -13,4 +13,4 @@ require (
 	golang.org/x/tools v0.9.1 // indirect
 )
 
-replace github.com/cloudflare/circl => ../../../../../
+replace github.com/ReallyMeLabs/circl => ../../../../../
