@@ -1,3 +1,4 @@
+
 // Code generated from mode3/internal/rounding_test.go by gen.go
 
 package internal
@@ -6,7 +7,7 @@ import (
 	"flag"
 	"testing"
 
-	"github.com/cloudflare/circl/sign/dilithium/internal/common"
+	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
 )
 
 var runVeryLongTest = flag.Bool("very-long", false, "runs very long tests")
