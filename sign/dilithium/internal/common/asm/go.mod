@@ -1,4 +1,4 @@
-module github.com/cloudflare/circl/sign/dilithium/internal/common/asm
+module github.com/ReallyMeLabs/circl/sign/dilithium/internal/common/asm
 
 go 1.19
 

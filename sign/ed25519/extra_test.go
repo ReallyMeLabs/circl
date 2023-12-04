@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/cloudflare/circl/internal/test"
-	"github.com/cloudflare/circl/sign/ed25519"
+	"github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/sign/ed25519"
 )
 
 func TestWrongPublicKey(t *testing.T) {
