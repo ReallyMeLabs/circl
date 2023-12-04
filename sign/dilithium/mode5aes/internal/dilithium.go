@@ -43,8 +43,8 @@ const (
 
 // PublicKey is the type of Dilithium public keys.
 type PublicKey struct {
-	rho [32]byte
-	t1  VecK
+	Rho [32]byte
+	T1  VecK
 
 	// Cached values
 	t1p [common.PolyT1Size * K]byte
