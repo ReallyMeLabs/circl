@@ -8,7 +8,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/group"
+	"github.com/reallymelabs/circl/group"
 	"golang.org/x/crypto/sha3"
 )
 

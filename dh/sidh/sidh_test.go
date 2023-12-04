@@ -8,8 +8,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/dh/sidh/internal/common"
-	. "github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/reallymelabs/circl/dh/sidh/internal/common"
+	. "github.com/reallymelabs/circl/internal/test"
 )
 
 /* -------------------------------------------------------------------------
@@ -580,7 +580,7 @@ func BenchmarkSharedSecretBobP434(b *testing.B) {
 // Examples
 
 func ExamplePrivateKey() {
-	// import "github.com/ReallyMeLabs/circl/dh/sidh"
+	// import "github.com/reallymelabs/circl/dh/sidh"
 
 	// Alice's key pair
 	prvA := NewPrivateKey(Fp503, KeyVariantSidhA)

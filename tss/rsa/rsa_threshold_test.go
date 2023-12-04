@@ -12,7 +12,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/reallymelabs/circl/internal/test"
 )
 
 var ONE = big.NewInt(1)

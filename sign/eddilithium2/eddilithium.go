@@ -7,10 +7,10 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/internal/sha3"
-	"github.com/ReallyMeLabs/circl/sign"
-	"github.com/ReallyMeLabs/circl/sign/dilithium/mode2"
-	"github.com/ReallyMeLabs/circl/sign/ed25519"
+	"github.com/reallymelabs/circl/internal/sha3"
+	"github.com/reallymelabs/circl/sign"
+	"github.com/reallymelabs/circl/sign/dilithium/mode2"
+	"github.com/reallymelabs/circl/sign/ed25519"
 )
 
 const (

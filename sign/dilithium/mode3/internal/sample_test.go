@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
+	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
 )
 
 func TestVectorDeriveUniform(t *testing.T) {

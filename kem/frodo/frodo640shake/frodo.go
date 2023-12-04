@@ -7,8 +7,8 @@ import (
 	"crypto/subtle"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/internal/sha3"
-	"github.com/ReallyMeLabs/circl/kem"
+	"github.com/reallymelabs/circl/internal/sha3"
+	"github.com/reallymelabs/circl/kem"
 )
 
 const (

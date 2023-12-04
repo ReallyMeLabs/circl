@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ReallyMeLabs/circl/internal/conv"
+	"github.com/reallymelabs/circl/internal/conv"
 )
 
 // FuzzReduction is a fuzzer target for red64 function, which reduces t

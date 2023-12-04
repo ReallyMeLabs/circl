@@ -2,7 +2,7 @@
 //
 // A register of schemes is available in the package
 //
-//	github.com/ReallyMeLabs/circl/sign/schemes
+//	github.com/reallymelabs/circl/sign/schemes
 package sign
 
 import (

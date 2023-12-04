@@ -4,8 +4,8 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/internal/conv"
-	"github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/reallymelabs/circl/internal/conv"
+	"github.com/reallymelabs/circl/internal/test"
 )
 
 func TestCalculateS(t *testing.T) {

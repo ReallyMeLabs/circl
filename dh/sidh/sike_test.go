@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/dh/sidh/internal/common"
-	. "github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/reallymelabs/circl/dh/sidh/internal/common"
+	. "github.com/reallymelabs/circl/internal/test"
 )
 
 type sikeVec struct {

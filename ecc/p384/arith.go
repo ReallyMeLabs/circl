@@ -6,7 +6,7 @@ package p384
 import (
 	"math/big"
 
-	"github.com/ReallyMeLabs/circl/internal/conv"
+	"github.com/reallymelabs/circl/internal/conv"
 )
 
 const sizeFp = 48

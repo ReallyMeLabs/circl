@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ReallyMeLabs/circl/kem"
+	"github.com/reallymelabs/circl/kem"
 )
 
 type shortKEM struct {

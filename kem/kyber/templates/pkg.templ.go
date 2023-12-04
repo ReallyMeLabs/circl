@@ -16,9 +16,9 @@ import (
 	"crypto/subtle"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/internal/sha3"
-	"github.com/ReallyMeLabs/circl/kem"
-	cpapke "github.com/ReallyMeLabs/circl/pke/kyber/{{.Pkg}}"
+	"github.com/reallymelabs/circl/internal/sha3"
+	"github.com/reallymelabs/circl/kem"
+	cpapke "github.com/reallymelabs/circl/pke/kyber/{{.Pkg}}"
 	cryptoRand "crypto/rand"
 )
 

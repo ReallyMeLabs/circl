@@ -4,7 +4,7 @@
 package p503
 
 import (
-	"github.com/ReallyMeLabs/circl/dh/sidh/internal/common"
+	"github.com/reallymelabs/circl/dh/sidh/internal/common"
 )
 
 // Montgomery multiplication. Input values must be already

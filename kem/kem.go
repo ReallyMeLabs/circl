@@ -2,7 +2,7 @@
 //
 // A register of schemes is available in the package
 //
-//	github.com/ReallyMeLabs/circl/kem/schemes
+//	github.com/reallymelabs/circl/kem/schemes
 package kem
 
 import (

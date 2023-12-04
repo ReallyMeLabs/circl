@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/internal/test"
-	"github.com/ReallyMeLabs/circl/sign/ed25519"
+	"github.com/reallymelabs/circl/internal/test"
+	"github.com/reallymelabs/circl/sign/ed25519"
 )
 
 func TestWrongPublicKey(t *testing.T) {
@@ -185,7 +185,7 @@ func BenchmarkEd25519Ctx(b *testing.B) {
 }
 
 func Example_ed25519() {
-	// import "github.com/ReallyMeLabs/circl/sign/ed25519"
+	// import "github.com/reallymelabs/circl/sign/ed25519"
 	// import "crypto/rand"
 
 	// Generating Alice's key pair
@@ -205,7 +205,7 @@ func Example_ed25519() {
 }
 
 func ExampleSignPh() {
-	// import "github.com/ReallyMeLabs/circl/sign/ed25519"
+	// import "github.com/reallymelabs/circl/sign/ed25519"
 	// import "crypto/rand"
 
 	// Generating Alice's key pair
@@ -227,7 +227,7 @@ func ExampleSignPh() {
 }
 
 func ExampleSignWithCtx() {
-	// import "github.com/ReallyMeLabs/circl/sign/ed25519"
+	// import "github.com/reallymelabs/circl/sign/ed25519"
 	// import "crypto/rand"
 
 	// Generating Alice's key pair

@@ -4,7 +4,7 @@ package fp448
 import (
 	"errors"
 
-	"github.com/ReallyMeLabs/circl/internal/conv"
+	"github.com/reallymelabs/circl/internal/conv"
 )
 
 // Size in bytes of an element.

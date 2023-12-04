@@ -5,9 +5,9 @@ package internal
 import (
 	"encoding/binary"
 
-	"github.com/ReallyMeLabs/circl/internal/sha3"
-	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
-	"github.com/ReallyMeLabs/circl/simd/keccakf1600"
+	"github.com/reallymelabs/circl/internal/sha3"
+	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
+	"github.com/reallymelabs/circl/simd/keccakf1600"
 )
 
 // DeriveX4Available indicates whether the system supports the quick fourway

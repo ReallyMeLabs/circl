@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
-	"github.com/ReallyMeLabs/circl/sign/dilithium/mode2"
+	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
+	"github.com/reallymelabs/circl/sign/dilithium/mode2"
 )
 
 // implMode2 implements the mode.Mode interface for Dilithium2.

@@ -1,4 +1,4 @@
-module github.com/ReallyMeLabs/circl/simd/keccakf1600/internal/asm
+module github.com/reallymelabs/circl/simd/keccakf1600/internal/asm
 
 go 1.12
 

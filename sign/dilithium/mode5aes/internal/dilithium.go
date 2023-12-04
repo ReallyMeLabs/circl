@@ -7,7 +7,7 @@ import (
 	"crypto/subtle"
 	"io"
 
-	"github.com/ReallyMeLabs/internal/sha3"
+	"github.com/reallymelabs/circl/internal/sha3"
 	"github.com/ReallyMeLabs/sign/dilithium/internal/common"
 )
 

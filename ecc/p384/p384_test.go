@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/ecc/p384"
-	"github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/reallymelabs/circl/ecc/p384"
+	"github.com/reallymelabs/circl/internal/test"
 )
 
 func TestIsOnCurveTrue(t *testing.T) {
@@ -241,7 +241,7 @@ func BenchmarkScalarMult(b *testing.B) {
 }
 
 func Example_p384() {
-	// import "github.com/ReallyMeLabs/circl/ecc/p384"
+	// import "github.com/reallymelabs/circl/ecc/p384"
 	// import "crypto/elliptic"
 	circl := p384.P384()
 	stdlib := elliptic.P384()

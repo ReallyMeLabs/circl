@@ -5,7 +5,7 @@ package p503
 
 import (
 	"errors"
-	. "github.com/ReallyMeLabs/circl/dh/sidh/internal/common"
+	. "github.com/reallymelabs/circl/dh/sidh/internal/common"
 	"math"
 )
 

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
-	"github.com/ReallyMeLabs/circl/sign/dilithium/mode2aes"
+	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
+	"github.com/reallymelabs/circl/sign/dilithium/mode2aes"
 )
 
 // implMode2AES implements the mode.Mode interface for Dilithium2-AES.

@@ -3,7 +3,7 @@ package dsl
 import (
 	"fmt"
 
-	"github.com/ReallyMeLabs/circl/abe/cpabe/tkn20/internal/tkn"
+	"github.com/reallymelabs/circl/abe/cpabe/tkn20/internal/tkn"
 )
 
 var operators = map[string]int{

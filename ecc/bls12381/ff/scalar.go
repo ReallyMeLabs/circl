@@ -3,7 +3,7 @@ package ff
 import (
 	"io"
 
-	"github.com/ReallyMeLabs/circl/internal/conv"
+	"github.com/reallymelabs/circl/internal/conv"
 )
 
 // ScalarSize is the length in bytes of a Scalar.

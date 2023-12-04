@@ -8,8 +8,8 @@ import (
 	"math/big"
 
 	r255 "github.com/bwesterb/go-ristretto"
-	"github.com/ReallyMeLabs/circl/expander"
-	"github.com/ReallyMeLabs/circl/internal/conv"
+	"github.com/reallymelabs/circl/expander"
+	"github.com/reallymelabs/circl/internal/conv"
 )
 
 // Ristretto255 is a quotient group generated from the edwards25519 curve.

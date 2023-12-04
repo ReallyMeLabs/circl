@@ -3,7 +3,7 @@ package ff
 import (
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/reallymelabs/circl/internal/test"
 )
 
 func randomFp6(t testing.TB) *Fp6 { return &Fp6{*randomFp2(t), *randomFp2(t), *randomFp2(t)} }

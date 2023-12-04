@@ -12,7 +12,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/ReallyMeLabs/circl/blindsign/blindrsa/internal/keys"
+	"github.com/reallymelabs/circl/blindsign/blindrsa/internal/keys"
 )
 
 // ConvertHashFunction converts a crypto.Hash function to an equivalent hash.Hash type.

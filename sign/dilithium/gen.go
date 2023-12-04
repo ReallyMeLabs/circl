@@ -14,7 +14,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common/params"
+	"github.com/reallymelabs/circl/sign/dilithium/internal/common/params"
 )
 
 type Mode struct {

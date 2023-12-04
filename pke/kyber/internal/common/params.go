@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/ReallyMeLabs/circl/pke/kyber/internal/common/params"
+	"github.com/reallymelabs/circl/pke/kyber/internal/common/params"
 )
 
 const (

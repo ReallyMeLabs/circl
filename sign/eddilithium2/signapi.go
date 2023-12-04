@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"encoding/asn1"
 
-	"github.com/ReallyMeLabs/circl/sign"
+	"github.com/reallymelabs/circl/sign"
 )
 
 var sch sign.Scheme = &scheme{}

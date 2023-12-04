@@ -1,6 +1,6 @@
 package simot
 
-import "github.com/ReallyMeLabs/circl/group"
+import "github.com/reallymelabs/circl/group"
 
 type Sender struct {
 	index   int           // Indicate which OT

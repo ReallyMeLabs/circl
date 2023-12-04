@@ -11,11 +11,11 @@ import (
 	"hash"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/dh/x25519"
-	"github.com/ReallyMeLabs/circl/dh/x448"
-	"github.com/ReallyMeLabs/circl/ecc/p384"
-	"github.com/ReallyMeLabs/circl/kem"
-	"github.com/ReallyMeLabs/circl/kem/kyber/kyber768"
+	"github.com/reallymelabs/circl/dh/x25519"
+	"github.com/reallymelabs/circl/dh/x448"
+	"github.com/reallymelabs/circl/ecc/p384"
+	"github.com/reallymelabs/circl/kem"
+	"github.com/reallymelabs/circl/kem/kyber/kyber768"
 	"golang.org/x/crypto/chacha20poly1305"
 	"golang.org/x/crypto/hkdf"
 )

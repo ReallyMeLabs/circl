@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/group"
+	"github.com/reallymelabs/circl/group"
 )
 
 type PrivateKey struct {

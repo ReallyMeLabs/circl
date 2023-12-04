@@ -3,7 +3,7 @@
 package internal
 
 import (
-	"github.com/ReallyMeLabs/circl/pke/kyber/internal/common"
+	"github.com/reallymelabs/circl/pke/kyber/internal/common"
 )
 
 // A vector of K polynomials

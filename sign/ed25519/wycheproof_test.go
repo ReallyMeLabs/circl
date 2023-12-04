@@ -8,8 +8,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/internal/test"
-	"github.com/ReallyMeLabs/circl/sign/ed25519"
+	"github.com/reallymelabs/circl/internal/test"
+	"github.com/reallymelabs/circl/sign/ed25519"
 )
 
 type group struct {

@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/group"
-	"github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/reallymelabs/circl/group"
+	"github.com/reallymelabs/circl/internal/test"
 )
 
 type commonClient interface {

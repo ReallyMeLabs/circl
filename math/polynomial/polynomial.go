@@ -2,7 +2,7 @@
 // of a group.
 package polynomial
 
-import "github.com/ReallyMeLabs/circl/group"
+import "github.com/reallymelabs/circl/group"
 
 // Polynomial stores a polynomial over the set of scalars of a group.
 type Polynomial struct {

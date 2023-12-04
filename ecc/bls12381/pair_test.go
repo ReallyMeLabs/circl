@@ -5,8 +5,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/ecc/bls12381/ff"
-	"github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/reallymelabs/circl/ecc/bls12381/ff"
+	"github.com/reallymelabs/circl/internal/test"
 )
 
 func TestProdPair(t *testing.T) {

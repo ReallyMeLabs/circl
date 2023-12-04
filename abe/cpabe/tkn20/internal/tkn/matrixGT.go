@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	pairing "github.com/ReallyMeLabs/circl/ecc/bls12381"
+	pairing "github.com/reallymelabs/circl/ecc/bls12381"
 )
 
 // matrixGT represents a matrix of GT elements. They are stored in row-major order.

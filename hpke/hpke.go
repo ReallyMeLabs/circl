@@ -19,7 +19,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/kem"
+	"github.com/reallymelabs/circl/kem"
 )
 
 const versionLabel = "HPKE-v1"

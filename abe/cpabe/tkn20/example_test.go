@@ -7,7 +7,7 @@ import (
 	"log"
 	"strconv"
 
-	cpabe "github.com/ReallyMeLabs/circl/abe/cpabe/tkn20"
+	cpabe "github.com/reallymelabs/circl/abe/cpabe/tkn20"
 )
 
 func checkPolicy(in map[string][]string) bool {

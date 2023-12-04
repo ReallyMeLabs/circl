@@ -3,7 +3,7 @@ package fourq
 import (
 	"math/big"
 
-	"github.com/ReallyMeLabs/circl/internal/conv"
+	"github.com/reallymelabs/circl/internal/conv"
 )
 
 // Size of scalars used for point multiplication.

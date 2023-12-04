@@ -46,7 +46,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/ReallyMeLabs/circl/sign"
+	"github.com/reallymelabs/circl/sign"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/xof"
+	"github.com/reallymelabs/circl/xof"
 )
 
 type Expander interface {

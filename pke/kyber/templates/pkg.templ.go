@@ -15,7 +15,7 @@ import (
 	cryptoRand "crypto/rand"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/pke/kyber/{{.Pkg}}/internal"
+	"github.com/reallymelabs/circl/pke/kyber/{{.Pkg}}/internal"
 )
 
 const (

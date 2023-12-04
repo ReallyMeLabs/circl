@@ -7,7 +7,7 @@ import (
 	"crypto/subtle"
 	"math/big"
 
-	"github.com/ReallyMeLabs/circl/math"
+	"github.com/reallymelabs/circl/math"
 )
 
 type curve struct{}

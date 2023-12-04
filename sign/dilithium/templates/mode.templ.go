@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
-	"github.com/ReallyMeLabs/circl/sign/dilithium/{{.Pkg}}"
+	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
+	"github.com/reallymelabs/circl/sign/dilithium/{{.Pkg}}"
 )
 
 // {{.Impl}} implements the mode.Mode interface for {{.Name}}.

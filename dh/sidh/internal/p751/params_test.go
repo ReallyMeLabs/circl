@@ -4,7 +4,7 @@ package p751
 import (
 	"testing/quick"
 
-	. "github.com/ReallyMeLabs/circl/dh/sidh/internal/common"
+	. "github.com/reallymelabs/circl/dh/sidh/internal/common"
 )
 
 var (

@@ -5,8 +5,8 @@ import (
 	"crypto/subtle"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/internal/sha3"
-	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
+	"github.com/reallymelabs/circl/internal/sha3"
+	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
 )
 
 const (

@@ -9,7 +9,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/group"
+	"github.com/reallymelabs/circl/group"
 )
 
 const testSimOTCount = 100

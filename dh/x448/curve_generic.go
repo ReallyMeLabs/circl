@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"math/bits"
 
-	"github.com/ReallyMeLabs/circl/math/fp448"
+	"github.com/reallymelabs/circl/math/fp448"
 )
 
 func doubleGeneric(x, z *fp448.Elt) {

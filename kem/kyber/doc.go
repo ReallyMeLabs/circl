@@ -7,5 +7,5 @@
 //	https://pq-crystals.org/kyber/data/kyber-specification-round3.pdf
 //
 // The related public key encryption scheme CRYSTALS-Kyber.CPAPKE can be
-// found in the package github.com/ReallyMeLabs/circl/pke/kyber.
+// found in the package github.com/reallymelabs/circl/pke/kyber.
 package kyber

@@ -7,8 +7,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/ReallyMeLabs/circl/sign"
-	"github.com/ReallyMeLabs/circl/sign/schemes"
+	"github.com/reallymelabs/circl/sign"
+	"github.com/reallymelabs/circl/sign/schemes"
 )
 
 var (

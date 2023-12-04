@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/ReallyMeLabs/circl/kem"
+	"github.com/reallymelabs/circl/kem"
 	"golang.org/x/crypto/hkdf"
 )
 

@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
+	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
 )
 
 // Writes p with norm less than or equal η into buf, which must be of

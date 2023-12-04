@@ -13,7 +13,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ReallyMeLabs/circl/blindsign/blindrsa/internal/keys"
+	"github.com/reallymelabs/circl/blindsign/blindrsa/internal/keys"
 )
 
 const (
