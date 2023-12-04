@@ -3,7 +3,7 @@ module github.com/ReallyMeLabs/circl/sign/dilithium/internal/common/asm
 go 1.19
 
 require (
-	github.com/ReallyMeLabs/circl v1.4.0
+	github.com/ReallyMeLabs/circl v1.4.2
 	github.com/mmcloughlin/avo v0.5.0
 )
 
