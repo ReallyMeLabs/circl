@@ -8,7 +8,7 @@ import (
 	"io"
 
 	"github.com/reallymelabs/circl/internal/sha3"
-	"github.com/ReallyMeLabs/sign/dilithium/internal/common"
+	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
 )
 
 const (
