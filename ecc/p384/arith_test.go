@@ -9,7 +9,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/reallymelabs/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/internal/test"
 )
 
 func TestFpCmov(t *testing.T) {

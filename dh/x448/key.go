@@ -3,7 +3,7 @@ package x448
 import (
 	"crypto/subtle"
 
-	fp "github.com/reallymelabs/circl/math/fp448"
+	fp "github.com/ReallyMeLabs/circl/math/fp448"
 )
 
 // Size is the length in bytes of a X448 key.

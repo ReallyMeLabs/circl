@@ -5,7 +5,7 @@ package p434
 
 import (
 	"errors"
-	. "github.com/reallymelabs/circl/dh/sidh/internal/common"
+	. "github.com/ReallyMeLabs/circl/dh/sidh/internal/common"
 	"math"
 )
 

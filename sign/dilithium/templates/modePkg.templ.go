@@ -15,8 +15,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
-	"github.com/reallymelabs/circl/sign/dilithium/{{.Pkg}}/internal"
+	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
+	"github.com/ReallyMeLabs/circl/sign/dilithium/{{.Pkg}}/internal"
 )
 
 const (

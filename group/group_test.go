@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/reallymelabs/circl/group"
-	"github.com/reallymelabs/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/group"
+	"github.com/ReallyMeLabs/circl/internal/test"
 )
 
 var allGroups = []group.Group{

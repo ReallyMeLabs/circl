@@ -3,7 +3,7 @@
 
 package keccakf1600
 
-import "github.com/reallymelabs/circl/internal/sha3"
+import "github.com/ReallyMeLabs/circl/internal/sha3"
 
 func permuteSIMDx2(state []uint64, turbo bool) { f1600x2ARM(&state[0], &sha3.RC, turbo) }
 

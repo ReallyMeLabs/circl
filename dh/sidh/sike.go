@@ -5,8 +5,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/reallymelabs/circl/dh/sidh/internal/common"
-	"github.com/reallymelabs/circl/internal/sha3"
+	"github.com/ReallyMeLabs/circl/dh/sidh/internal/common"
+	"github.com/ReallyMeLabs/circl/internal/sha3"
 )
 
 // SIKE KEM interface.

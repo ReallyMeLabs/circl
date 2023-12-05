@@ -7,7 +7,7 @@
 package internal
 
 import (
-	"github.com/reallymelabs/circl/pke/kyber/internal/common"
+	"github.com/ReallyMeLabs/circl/pke/kyber/internal/common"
 )
 
 const (

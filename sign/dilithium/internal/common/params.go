@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/reallymelabs/circl/sign/dilithium/internal/common/params"
+	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common/params"
 )
 
 const (

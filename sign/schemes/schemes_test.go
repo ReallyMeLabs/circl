@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/reallymelabs/circl/sign"
-	"github.com/reallymelabs/circl/sign/schemes"
+	"github.com/ReallyMeLabs/circl/sign"
+	"github.com/ReallyMeLabs/circl/sign/schemes"
 )
 
 func TestCaseSensitivity(t *testing.T) {

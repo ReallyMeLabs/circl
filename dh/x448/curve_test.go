@@ -5,9 +5,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/reallymelabs/circl/internal/conv"
-	"github.com/reallymelabs/circl/internal/test"
-	fp "github.com/reallymelabs/circl/math/fp448"
+	"github.com/ReallyMeLabs/circl/internal/conv"
+	"github.com/ReallyMeLabs/circl/internal/test"
+	fp "github.com/ReallyMeLabs/circl/math/fp448"
 )
 
 func getModulus() *big.Int {

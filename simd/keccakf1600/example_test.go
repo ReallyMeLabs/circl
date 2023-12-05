@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/reallymelabs/circl/internal/sha3"
-	"github.com/reallymelabs/circl/simd/keccakf1600"
+	"github.com/ReallyMeLabs/circl/internal/sha3"
+	"github.com/ReallyMeLabs/circl/simd/keccakf1600"
 )
 
 func Example() {

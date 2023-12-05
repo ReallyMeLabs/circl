@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/reallymelabs/circl/ecc/bls12381/ff"
-	"github.com/reallymelabs/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/ecc/bls12381/ff"
+	"github.com/ReallyMeLabs/circl/internal/test"
 )
 
 func randomG2(t testing.TB) *G2 {

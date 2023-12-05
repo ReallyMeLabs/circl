@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/reallymelabs/circl/ecc/bls12381/ff"
-	"github.com/reallymelabs/circl/expander"
+	"github.com/ReallyMeLabs/circl/ecc/bls12381/ff"
+	"github.com/ReallyMeLabs/circl/expander"
 )
 
 // G1Size is the length in bytes of an element in G1 in uncompressed form..

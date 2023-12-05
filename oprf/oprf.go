@@ -54,8 +54,8 @@ import (
 	"io"
 	"math"
 
-	"github.com/reallymelabs/circl/group"
-	"github.com/reallymelabs/circl/zk/dleq"
+	"github.com/ReallyMeLabs/circl/group"
+	"github.com/ReallyMeLabs/circl/zk/dleq"
 )
 
 const (

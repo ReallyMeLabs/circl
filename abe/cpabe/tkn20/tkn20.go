@@ -14,8 +14,8 @@ import (
 	cryptoRand "crypto/rand"
 	"io"
 
-	"github.com/reallymelabs/circl/abe/cpabe/tkn20/internal/dsl"
-	"github.com/reallymelabs/circl/abe/cpabe/tkn20/internal/tkn"
+	"github.com/ReallyMeLabs/circl/abe/cpabe/tkn20/internal/dsl"
+	"github.com/ReallyMeLabs/circl/abe/cpabe/tkn20/internal/tkn"
 )
 
 type PublicKey struct {

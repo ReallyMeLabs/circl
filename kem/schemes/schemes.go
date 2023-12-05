@@ -19,13 +19,13 @@ package schemes
 import (
 	"strings"
 
-	"github.com/reallymelabs/circl/hpke"
-	"github.com/reallymelabs/circl/kem"
-	"github.com/reallymelabs/circl/kem/frodo/frodo640shake"
-	"github.com/reallymelabs/circl/kem/hybrid"
-	"github.com/reallymelabs/circl/kem/kyber/kyber1024"
-	"github.com/reallymelabs/circl/kem/kyber/kyber512"
-	"github.com/reallymelabs/circl/kem/kyber/kyber768"
+	"github.com/ReallyMeLabs/circl/hpke"
+	"github.com/ReallyMeLabs/circl/kem"
+	"github.com/ReallyMeLabs/circl/kem/frodo/frodo640shake"
+	"github.com/ReallyMeLabs/circl/kem/hybrid"
+	"github.com/ReallyMeLabs/circl/kem/kyber/kyber1024"
+	"github.com/ReallyMeLabs/circl/kem/kyber/kyber512"
+	"github.com/ReallyMeLabs/circl/kem/kyber/kyber768"
 )
 
 var allSchemes = [...]kem.Scheme{

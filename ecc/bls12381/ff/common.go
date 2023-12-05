@@ -8,7 +8,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/reallymelabs/circl/internal/conv"
+	"github.com/ReallyMeLabs/circl/internal/conv"
 )
 
 var (

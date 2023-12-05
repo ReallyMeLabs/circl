@@ -10,8 +10,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/reallymelabs/circl/ecc/p384"
-	"github.com/reallymelabs/circl/expander"
+	"github.com/ReallyMeLabs/circl/ecc/p384"
+	"github.com/ReallyMeLabs/circl/expander"
 )
 
 var (

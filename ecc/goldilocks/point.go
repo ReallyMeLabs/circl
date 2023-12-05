@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	fp "github.com/reallymelabs/circl/math/fp448"
+	fp "github.com/ReallyMeLabs/circl/math/fp448"
 )
 
 // Point is a point on the Goldilocks Curve.

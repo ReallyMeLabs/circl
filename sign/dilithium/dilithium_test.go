@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/reallymelabs/circl/internal/sha3"
+	"github.com/ReallyMeLabs/circl/internal/sha3"
 )
 
 func hexHash(in []byte) string {

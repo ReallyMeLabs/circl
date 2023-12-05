@@ -9,8 +9,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/reallymelabs/circl/internal/test"
-	"github.com/reallymelabs/circl/kem"
+	"github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/kem"
 	"golang.org/x/crypto/sha3"
 )
 

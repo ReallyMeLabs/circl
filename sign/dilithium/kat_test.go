@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/reallymelabs/circl/internal/nist"
+	"github.com/ReallyMeLabs/circl/internal/nist"
 )
 
 func TestPQCgenKATSign(t *testing.T) {

@@ -4,8 +4,8 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/reallymelabs/circl/group"
-	"github.com/reallymelabs/circl/zk/dl"
+	"github.com/ReallyMeLabs/circl/group"
+	"github.com/ReallyMeLabs/circl/zk/dl"
 )
 
 const testzkDLCount = 1 << 8

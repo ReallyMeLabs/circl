@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	pairing "github.com/reallymelabs/circl/ecc/bls12381"
+	pairing "github.com/ReallyMeLabs/circl/ecc/bls12381"
 )
 
 const (

@@ -7,7 +7,7 @@
 package p434
 
 import (
-	. "github.com/reallymelabs/circl/dh/sidh/internal/common"
+	. "github.com/ReallyMeLabs/circl/dh/sidh/internal/common"
 )
 
 // If choice = 0, leave x unchanged. If choice = 1, sets x to y.

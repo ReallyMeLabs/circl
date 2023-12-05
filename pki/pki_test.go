@@ -3,8 +3,8 @@ package pki_test
 import (
 	"testing"
 
-	"github.com/reallymelabs/circl/pki"
-	"github.com/reallymelabs/circl/sign/schemes"
+	"github.com/ReallyMeLabs/circl/pki"
+	"github.com/ReallyMeLabs/circl/sign/schemes"
 )
 
 func TestPEM(t *testing.T) {

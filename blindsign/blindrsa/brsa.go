@@ -32,8 +32,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/reallymelabs/circl/blindsign/blindrsa/internal/common"
-	"github.com/reallymelabs/circl/blindsign/blindrsa/internal/keys"
+	"github.com/ReallyMeLabs/circl/blindsign/blindrsa/internal/common"
+	"github.com/ReallyMeLabs/circl/blindsign/blindrsa/internal/keys"
 )
 
 // An randomBRSAVerifier represents a Verifier in the RSA blind signature protocol.

@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	cpabe "github.com/reallymelabs/circl/abe/cpabe/tkn20"
+	cpabe "github.com/ReallyMeLabs/circl/abe/cpabe/tkn20"
 )
 
 func writeToFile(name string, data []byte) {

@@ -16,7 +16,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/reallymelabs/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/internal/test"
 )
 
 // 2048-bit RSA private key

@@ -4,8 +4,8 @@ import (
 	"crypto/rand"
 	"testing"
 
-	pairing "github.com/reallymelabs/circl/ecc/bls12381"
-	"github.com/reallymelabs/circl/ecc/bls12381/ff"
+	pairing "github.com/ReallyMeLabs/circl/ecc/bls12381"
+	"github.com/ReallyMeLabs/circl/ecc/bls12381/ff"
 )
 
 func TestSampleDlin(t *testing.T) {

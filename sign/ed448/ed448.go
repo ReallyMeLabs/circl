@@ -33,9 +33,9 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/reallymelabs/circl/ecc/goldilocks"
-	"github.com/reallymelabs/circl/internal/sha3"
-	"github.com/reallymelabs/circl/sign"
+	"github.com/ReallyMeLabs/circl/ecc/goldilocks"
+	"github.com/ReallyMeLabs/circl/internal/sha3"
+	"github.com/ReallyMeLabs/circl/sign"
 )
 
 const (

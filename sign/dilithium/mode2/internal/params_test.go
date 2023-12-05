@@ -3,7 +3,7 @@ package internal
 import (
 	"testing"
 
-	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
+	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
 )
 
 // Tests specific to the current mode

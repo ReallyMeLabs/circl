@@ -1,6 +1,6 @@
 package x448
 
-import fp "github.com/reallymelabs/circl/math/fp448"
+import fp "github.com/ReallyMeLabs/circl/math/fp448"
 
 // tableGenerator contains the set of points:
 //

@@ -1,9 +1,9 @@
-module github.com/reallymelabs/circl/sign/dilithium/internal/common/asm
+module github.com/ReallyMeLabs/circl/sign/dilithium/internal/common/asm
 
 go 1.19
 
 require (
-	github.com/reallymelabs/circl v1.4.4
+	github.com/ReallyMeLabs/circl v1.4.5
 	github.com/mmcloughlin/avo v0.5.0
 )
 

@@ -13,9 +13,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/reallymelabs/circl/expander"
-	"github.com/reallymelabs/circl/internal/test"
-	"github.com/reallymelabs/circl/xof"
+	"github.com/ReallyMeLabs/circl/expander"
+	"github.com/ReallyMeLabs/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/xof"
 )
 
 func TestExpander(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/reallymelabs/circl/sign/dilithium/internal/common"
+	"github.com/ReallyMeLabs/circl/sign/dilithium/internal/common"
 )
 
 // Checks whether p is normalized.  Only used in tests.

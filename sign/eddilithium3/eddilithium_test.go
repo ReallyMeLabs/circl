@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/reallymelabs/circl/sign/eddilithium3"
+	"github.com/ReallyMeLabs/circl/sign/eddilithium3"
 )
 
 func BenchmarkVerify(b *testing.B) {

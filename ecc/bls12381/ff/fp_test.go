@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/reallymelabs/circl/internal/test"
+	"github.com/ReallyMeLabs/circl/internal/test"
 )
 
 func randomFp(t testing.TB) *Fp {

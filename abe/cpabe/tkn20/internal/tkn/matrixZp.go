@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	pairing "github.com/reallymelabs/circl/ecc/bls12381"
+	pairing "github.com/ReallyMeLabs/circl/ecc/bls12381"
 	"golang.org/x/crypto/blake2b"
 )
 

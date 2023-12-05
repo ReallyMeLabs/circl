@@ -3,7 +3,7 @@ package goldilocks
 import (
 	"crypto/subtle"
 
-	mlsb "github.com/reallymelabs/circl/math/mlsbset"
+	mlsb "github.com/ReallyMeLabs/circl/math/mlsbset"
 )
 
 const (

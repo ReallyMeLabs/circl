@@ -9,7 +9,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/reallymelabs/circl/dh/sidh/internal/common"
+	"github.com/ReallyMeLabs/circl/dh/sidh/internal/common"
 )
 
 type testParams struct {

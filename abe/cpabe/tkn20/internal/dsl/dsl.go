@@ -1,6 +1,6 @@
 package dsl
 
-import "github.com/reallymelabs/circl/abe/cpabe/tkn20/internal/tkn"
+import "github.com/ReallyMeLabs/circl/abe/cpabe/tkn20/internal/tkn"
 
 var AttrHashKey = []byte("attribute value hashing")
 
